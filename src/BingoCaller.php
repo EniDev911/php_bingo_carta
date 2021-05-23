@@ -13,7 +13,7 @@ class BingoCaller
 
     public function callNumbers()
     { 
-        return 3;
+        return 0;
     }
 
 }
